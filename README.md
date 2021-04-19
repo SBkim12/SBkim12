@@ -2,6 +2,7 @@
 안녕하세요 신입 개발자 김승범입니다.
 잘 부탁드려요 😄😄~~
 
+[개발자 김승범 알아보기!](https://www.notion.so/cf22d9ea5b4f436c9f2c065284ba22a9)
 
 [![SBKim's github stats](https://github-readme-stats.vercel.app/api?username=SBkim12)](https://github.com/anuraghazra/github-readme-stats)
 <!--
