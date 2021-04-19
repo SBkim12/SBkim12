@@ -4,7 +4,7 @@
 
 [개발자 김승범 알아보기!](https://www.notion.so/cf22d9ea5b4f436c9f2c065284ba22a9)
 
-나의 커밋은?
+
 [![SBKim's github stats](https://github-readme-stats.vercel.app/api?username=SBkim12)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SBkim12/SBkim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
